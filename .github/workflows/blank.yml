@@ -28,4 +28,5 @@ jobs:
 
           git add quotes.md
           git commit -m "\"$QUOTE\" — $AUTHOR"
+          git pull --rebase origin main
           git push
