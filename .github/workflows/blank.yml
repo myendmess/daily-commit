@@ -16,8 +16,8 @@ jobs:
 
       - name: Daily motivational commit
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "myendmess"
+          git config user.email "140411362+myendmess@users.noreply.github.com"
 
           RESPONSE=$(curl -s "https://zenquotes.io/api/random")
           QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q')
