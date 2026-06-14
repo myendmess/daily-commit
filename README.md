@@ -1,6 +1,12 @@
 # daily quote 
 
 
+## 2026-06-14
+
+> Do good by stealth, and blush to find it fame.
+
+— Alexander Pope
+
 ## 2026-06-13
 
 > Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.
