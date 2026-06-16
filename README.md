@@ -1,6 +1,12 @@
 # daily quote 
 
 
+## 2026-06-16
+
+> What people say, what people do, and what they say they do are entirely different things.
+
+— Margaret Mead
+
 ## 2026-06-15
 
 > Unless someone truly has the power to say no, they never truly have the power to say yes.
