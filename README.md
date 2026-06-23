@@ -1,6 +1,12 @@
 # daily quote 
 
 
+## 2026-06-23
+
+> You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.
+
+— Henry David Thoreau
+
 ## 2026-06-22
 
 > You're braver than you believe, and stronger than you seem, and smarter than you think.
