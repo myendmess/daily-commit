@@ -1,6 +1,12 @@
 # daily quote 
 
 
+## 2026-06-25
+
+> To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.
+
+— Criss Jami
+
 ## 2026-06-24
 
 > Go for it now. The future is promised to no one.
